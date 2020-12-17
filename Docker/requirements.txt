@@ -3,3 +3,5 @@ seaborn
 nltk
 imblearn
 transformers
+sklearn
+joblib
