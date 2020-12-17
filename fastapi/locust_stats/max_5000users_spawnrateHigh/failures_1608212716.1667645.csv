@@ -1,0 +1,5 @@
+Method,Name,Error,Occurrences
+GET,/sentence,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",7549
+GET,/sentence,"('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",2025
+GET,/,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",110
+GET,/,"('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",78
