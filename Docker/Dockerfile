@@ -5,4 +5,3 @@ RUN pip install typing fastapi numpy sklearn joblib
 
 COPY ./app /app
 
-EXPOSE 80
