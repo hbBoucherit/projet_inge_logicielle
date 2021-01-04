@@ -14,3 +14,5 @@
 ##### 4. To run : 
 > docker run -it -p 127.0.0.1:80:80/tcp bestidiiwii
 
+## Or fetch the image hosted in Docker Hub:
+> docker run qpsorge/idiiwii:test
