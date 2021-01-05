@@ -1,5 +1,7 @@
 # AI software engineering 
 
+Everything needed for this project can be found in the notebook **projet_inge_logi.ipynb**
+
 ## How to execute this repository
 
 ##### 1. Clone the repo 
